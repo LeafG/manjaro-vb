@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Conky (Resources)
+Type=Application
+Comment=Conky (system resources)
+Terminal=false
+Exec=conky -q &
+Icon=/usr/share/icons/gnome/22x22/actions/system-run.png
+Categories=Accessories;
+GenericName=Conky (system resources)

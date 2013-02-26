@@ -1,0 +1,11 @@
+[settings]
+default-encoding=ISO-8859-1
+enable-developer-extras=true
+enable-site-specific-quirks=true
+last-window-width=1072
+last-window-height=780
+location-entry-search=http://search.yahoo.com/search?p=
+toolbar-items=TabNew,Back,NextForward,ReloadStop,BookmarkAdd,Location,Search,Trash,CompactMenu
+homepage=http://manjaro.org/
+download-folder=/home/leaf/Downloads
+user-agent=Mozilla/5.0 (X11; Linux) AppleWebKit/537.6 (KHTML, like Gecko) Chrome/18.0.1025.133 Safari/537.6 Midori/0.4

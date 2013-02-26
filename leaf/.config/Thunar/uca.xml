@@ -1,0 +1,59 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon>Terminal</icon>
+	<name>Terminal</name>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description></description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>stock_folder</icon>
+	<name>Thunar Root</name>
+	<command>gksudo thunar %f</command>
+	<description>Thunar Root</description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>system-search</icon>
+	<name>Search</name>
+	<command>catfish --fileman=thunar --path=%f</command>
+	<description>find files and folders</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>leafpad</icon>
+	<name>Edit as Root</name>
+	<command>gksudo leafpad %f</command>
+	<description>Edit as Root</description>
+	<patterns>*</patterns>
+	<other-files/>
+	<text-files/>
+</action>
+<action>
+	<icon>spacefm-find</icon>
+	<name>SpaceFM Search</name>
+	<command>spacefm --find-files %F</command>
+	<description>SpaceFM Search</description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+</actions>

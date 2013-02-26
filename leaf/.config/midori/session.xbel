@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://www.python.org/topics/xml/dtds/xbel-1.0.dtd">
+<xbel version="1.0" xmlns:midori="http://www.twotoasts.de">
+<info>
+<metadata midori:current="2" owner="http://www.twotoasts.de"/>
+</info>
+<bookmark href="http://www.youtube.com/watch?v=HgzGwKwLmgM">
+<title>‪Queen - &apos;Don&apos;t Stop Me Now&apos; - YouTube</title>
+<info>
+<metadata midori:icon="http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" midori:history-step="2" midori:mime-type="text/html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="about:blank">
+<title>‪Speed Dial</title>
+<info>
+<metadata midori:dont-write-history="1" midori:icon="stock://gtk-file" midori:mime-type="text/html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="about:blank">
+<title>‪Speed Dial</title>
+<info>
+<metadata midori:icon="stock://gtk-file" midori:mime-type="text/html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="file:///home/leaf/.wine/dosdevices/z:/usr/share/enlightenment/doc/documentation.html">
+<title>‪Enlightenment Developer Documentation</title>
+<info>
+<metadata midori:history-step="2" midori:icon="stock://gtk-file" midori:mime-type="text/html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://www.foobar2000.org/components">
+<title>‪foobar2000: Components Repository</title>
+<info>
+<metadata midori:delay="0" midori:icon="http://www.foobar2000.org/favicon.ico" midori:mime-type="text/html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://www.google.com/search?q=mpd%20&amp;hl=en">
+<title>‪mpd - Google Search</title>
+<info>
+<metadata midori:delay="0" midori:icon="http://www.google.com/favicon.ico" midori:mime-type="text/html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://www.google.com/search?q=python2-mpd&amp;hl=en">
+<title>‪python2-mpd - Google Search</title>
+<info>
+<metadata midori:delay="0" midori:icon="http://www.google.com/favicon.ico" midori:mime-type="text/html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+</xbel>
